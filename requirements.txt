@@ -3,3 +3,6 @@ future==0.18.2
 pyglet==1.4.8
 numpy
 pandas
+LightFm
+Scipy
+
